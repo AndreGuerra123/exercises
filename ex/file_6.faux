@@ -1,13 +1,11 @@
 experiment_name,sample_id,fauxness,category_guess
 observation65093doover,365688,0.0579989247747,real
-,,,
 examination62743/doover,396680,0.976255105593,fake
 analysis/28
 exercise 63891doover,62788,0.0596011699662,real
 exercise 42759doover,453184,0.299766996864,real
 dry run 24409 doover,875137,0.729445289439,fake
 measure/11806retry,151984,0.488963100476,ambiguous
-,,,
 assay 45620.2,474098,0.664152205475,fake
 real,284595,0.385791442447,attempt 64712/retry
 test46169,58954,0.768232988473,fake
