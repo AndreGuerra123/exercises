@@ -158,7 +158,7 @@ class Fauxlizer:
         return to_return
 
     def _get_stats(self,fd:list):
-        if len(fd) > 0:
+        if len(fd) > 1:
             return {'mean':statistics.mean(fd),
                 'median':statistics.median(fd),
                 'std':statistics.pstdev(fd),
